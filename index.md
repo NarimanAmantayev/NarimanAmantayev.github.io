@@ -1,4 +1,4 @@
-co---
+---
 title: "Autism Awareness"
 layout: splash
 permalink: /
