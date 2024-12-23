@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
     - label: "Download"
-      url: "https://https://narimanamantayev.github.io/"
+      url: "https://narimanamantayev.github.io/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Welcome! Here is some information with regard to autism..."
 intro: 
