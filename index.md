@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-  actions:
+  # actions:
     - label: "Download"
       url: "https://https://narimanamantayev.github.io/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
